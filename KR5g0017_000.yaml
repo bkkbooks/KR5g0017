@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5g0017/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上三五正一盟威籙
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:25:32.465446'
+  source:
+    repository: kanripo
+    path: KR5g0017/KR5g0017_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:94372d2a570c74e21c6b526c23652d76ebea5b000c1367f1a447535d1bb00e95
